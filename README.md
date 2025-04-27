@@ -26,15 +26,15 @@ Windows içni python'a [buradan ulaşabilirsiniz]((https://www.python.org/downlo
 
 **Projeyi Klonlayın**
 
-        git clone https://github.com/vegilantgroup/vgchatbot.git
+    git clone https://github.com/vegilantgroup/vgchatbot.git
 
 **Proje klasörüne gidin:**
 
-        cd vgchatbot
+    cd vgchatbot
 
 **Çalıştırmak için:**
 
-        python main.py
+    python main.py
 
 ## Kullanım
 
