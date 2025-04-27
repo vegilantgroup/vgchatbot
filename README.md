@@ -26,37 +26,37 @@ Windows içni python'a [buradan ulaşabilirsiniz]((https://www.python.org/downlo
 
 **Projeyi Klonlayın**
 
-git clone https://github.com/vegilantgroup/vgchatbot.git
+        git clone https://github.com/vegilantgroup/vgchatbot.git
 
 **Proje klasörüne gidin:**
 
-cd vgchatbot
+        cd vgchatbot
 
 **Çalıştırmak için:**
 
         python main.py
 
-Kullanım
+## Kullanım
 
-    Chatbot ile sohbet et:
+        Chatbot ile sohbet et:
 
-        Bu seçenek ile chatbot ile etkileşimli bir sohbet başlatabilirsiniz.
+                Bu seçenek ile chatbot ile etkileşimli bir sohbet başlatabilirsiniz.
 
-        Çıkmak için exit yazabilirsiniz.
+                Çıkmak için exit yazabilirsiniz.
 
-    Chatbot'u eğit:
+        Chatbot'u eğit:
 
-        Bu seçenekle yeni sorular ve cevaplar ekleyebilirsiniz.
+                Bu seçenekle yeni sorular ve cevaplar ekleyebilirsiniz.
 
-        Eğer soru zaten mevcutsa, yeni cevaplar ekleyebilirsiniz.
+                Eğer soru zaten mevcutsa, yeni cevaplar ekleyebilirsiniz.
 
-    Çıkış:
+            Çıkış:
 
-        Çıkmak için bu seçeneği seçebilirsiniz.
+                Çıkmak için bu seçeneği seçebilirsiniz.
 
-Chatbot Eğitme
+## Chatbot Eğitme
 
-Chatbot'a yeni bir soru eklemek için şu adımları takip edebilirsiniz:
+**Chatbot'a yeni bir soru eklemek için şu adımları takip edebilirsiniz:**
 
     Soru girin. Örnek: "Beni seviyor musun?".
 
