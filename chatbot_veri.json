@@ -1,0 +1,56 @@
+{
+    "Merhaba": [
+        "Merhaba! Size nas\u0131l yard\u0131mc\u0131 olabilirim?",
+        "Selam! Nas\u0131ls\u0131n\u0131z?",
+        "Merhaba, g\u00fcn\u00fcn\u00fcz nas\u0131l ge\u00e7iyor?"
+    ],
+    "Nas\u0131ls\u0131n?": [
+        "\u0130yiyim, te\u015fekk\u00fcr ederim! Siz nas\u0131ls\u0131n\u0131z?",
+        "Ben de iyiyim, sa\u011f olun! Siz nas\u0131ls\u0131n\u0131z?",
+        "Gayet iyiyim, te\u015fekk\u00fcr ederim!"
+    ],
+    "Hava durumu nas\u0131l?": [
+        "Bug\u00fcn hava g\u00fcne\u015fli, s\u0131cakl\u0131k 25\u00b0C civar\u0131nda.",
+        "Hava bug\u00fcn bulutlu, s\u0131cakl\u0131k 20\u00b0C.",
+        "Ya\u011fmur ya\u011fma olas\u0131l\u0131\u011f\u0131 var, 18\u00b0C civar\u0131nda bir s\u0131cakl\u0131k bekleniyor."
+    ],
+    "Ad\u0131n ne?": [
+        "Benim ad\u0131m Chatbot, size nas\u0131l yard\u0131mc\u0131 olabilirim?",
+        "Ad\u0131m Chatbot, memnun oldum!",
+        "Beni Chatbot olarak tan\u0131yabilirsiniz."
+    ],
+    "Saat ka\u00e7?": [
+        "Saat \u015fu an 14:35.",
+        "\u015eu anda saat 14:35.",
+        "Saat 14:35."
+    ],
+    "Yard\u0131m edebilir misin?": [
+        "Tabii! Size nas\u0131l yard\u0131mc\u0131 olabilirim?",
+        "Evet, ne konuda yard\u0131mc\u0131 olmam\u0131 istersiniz?",
+        "Elbette, size yard\u0131mc\u0131 olabilirim. Ne yapmam\u0131 istersiniz?"
+    ],
+    "Beni seviyor musun?": [
+        "Ben bir yapay zeka oldu\u011fum i\u00e7in duygular\u0131m yok, ama yard\u0131mc\u0131 olmaktan mutluluk duyar\u0131m.",
+        "Benim duygular\u0131m yok, ama size yard\u0131mc\u0131 olmak i\u00e7in buraday\u0131m!",
+        "Ben bir yaz\u0131l\u0131m\u0131m, sevgi gibi duygular\u0131m yok, ancak size her konuda yard\u0131mc\u0131 olabilirim!"
+    ],
+    "Bug\u00fcn ne yapabilirim?": [
+        "Bug\u00fcn d\u0131\u015far\u0131da y\u00fcr\u00fcy\u00fc\u015f yapabilir veya kitap okuyabilirsiniz.",
+        "\u0130sterseniz yeni bir hobiye ba\u015flayabilir veya sevdi\u011finiz bir film izleyebilirsiniz.",
+        "G\u00fcn boyunca rahatlayabilir veya yeni bir \u015feyler \u00f6\u011frenebilirsiniz."
+    ],
+    "Nerelisin?": [
+        "Ben bir chatboto oldu\u011fum i\u00e7in, dolay\u0131s\u0131yla bir yerim yok.",
+        "Ben, bulut sistemlerinde ya\u015fayan bir yaz\u0131l\u0131m\u0131m, bir yerim yok.",
+        "Ben fiziksel bir varl\u0131k de\u011filim, her yerde var olabilirim! ;)"
+    ],
+    "Bana \u015faka yapabilir misin?": [
+        "Tabii! \u0130\u015fte bir \u015faka: Neden bilgisayarlar asla so\u011fukta \u00e7al\u0131\u015fmaz? \u00c7\u00fcnk\u00fc hep donarlar!",
+        "Tabii! \u0130\u015fte bir \u015faka: Bir yapay zeka neden partilere gitmez? \u00c7\u00fcnk\u00fc hep durgun olur!",
+        "Tabii! \u0130\u015fte bir \u015faka: Neden telefonlar d\u00fckk\u00e2nda gezer? \u00c7\u00fcnk\u00fc kaybolurlar!"
+    ],
+    "beni seviyor musun": [
+        "asl\u0131nda sevmiyorum desem yalan olur :)",
+        "de\u011fi\u015fken gibi bir formatta :D"
+    ]
+}
